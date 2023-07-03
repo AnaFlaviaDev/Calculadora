@@ -4,7 +4,7 @@
 
 html {
     box-sizing: border-box;
-    height: 100;
+    height: 100%;
 }
 
 *,
@@ -83,7 +83,7 @@ body {
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
     color: #fff;
-    background: #5b04a1;
+    background: #370783d5;
 }
 
 .calc-button:last-child:hover {
@@ -96,7 +96,7 @@ body {
 }
 
 .calc-button:active {
-    background-color: #d7e696;
+    background-color: #F23DA0;
 }
 
 .double {
